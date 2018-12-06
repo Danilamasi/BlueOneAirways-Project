@@ -116,7 +116,7 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t</div>\n");
       out.write("\t\t\t\t</form>\n");
       out.write("\n");
-      out.write("\t\t\t\t<div class=\"login100-more\" style=\"background-image: url('images/bg-01.jpg');\"></div>\n");
+      out.write("\t\t\t\t<div class=\"login100-more\" style=\"background-image: url('images/pic2.jpg');\"></div>\n");
       out.write("\t\t\t</div>\n");
       out.write("\t\t</div>\n");
       out.write("\t</div>\n");

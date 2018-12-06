@@ -33,6 +33,7 @@
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="css/util.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
+       
 <!--===============================================================================================-->
 </head>
 <body>
@@ -60,7 +61,7 @@
 						</button>
 					</div>
 
-					<div class="w-full text-center p-t-27 p-b-239">
+					<div class="w-full text-center">
 						<span class="txt1">
 							Forgot
 						</span>
@@ -69,7 +70,6 @@
 							User name / password?
 						</a>
 					</div>
-
 					<div class="w-full text-center">
 						<a href="#" class="txt3">
 							Sign Up
@@ -77,7 +77,7 @@
 					</div>
 				</form>
 
-				<div class="login100-more" style="background-image: url('images/bg-01.jpg');"></div>
+				<div class="login100-more" style="background-image: url('images/pic2.jpg'); background-size: contain"></div>
 			</div>
 		</div>
 	</div>
